@@ -1,6 +1,0 @@
-2026-10-08 Portfolio revision
-- College-wide AI Bookkeeping Support Agent presented as completed and distinct from committee exploration.
-- Added additional work: Element451 CRM, online bookstore and Integrated Education and Training pathways.
-- Existing photos and resume preserved.
-- No claims about unverified AI adoption, response accuracy or hours saved.
-- Do not upload private internal source records to GitHub.

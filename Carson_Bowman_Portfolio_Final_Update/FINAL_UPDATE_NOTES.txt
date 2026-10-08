@@ -1,5 +1,0 @@
-Portfolio update — Oct 2026
-Added: NIMS five-year reaccreditation case (Jan 30 2026–Jan 29 2031); Cabinetmaking I & II program development case; four additional authentic machining/CNC stakeholder photographs.
-The original group photograph is used as documentary evidence. An optional illustrative composite is in assets/photos/cnc-tour-illustrative-composite.webp (if present) and is NOT displayed as documentation.
-Updated pages: index.html, script.js. New photos: assets/photos/.
-Existing résumé and content preserved. To update GitHub, upload index.html, script.js, and the NEW images in assets/photos, preserving folders.
